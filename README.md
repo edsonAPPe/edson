@@ -5,7 +5,7 @@
 - 📫 How to reach me: edson098pereira@gmail.com
 
 
-<div align="center">
+<div align="">
   <a href="https://github.com/edsonAPPe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonAPPe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
